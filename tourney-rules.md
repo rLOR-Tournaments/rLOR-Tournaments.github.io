@@ -59,7 +59,8 @@ All season tourney formats use Best-of-3 (Bo3) matches with the following rules.
   - A player reaches 2 games won (by `VICTORY` or by forfeit).
   - The TO ends the match (by itself or as part of the round).
 - A `TIE GAME` (e.g. at Start of Round, both players are at 1 life and draw a Poison Puffcap) counts as a game played and increments the game counter, but doesn't count as a [whole or partial] win or loss for either player.
-- A disconnect in-game counts as a game loss for the disconnecting player. Disconnects within the lobby are not a loss for either player unless a frequent occurrence for a particular player.
+- If a player enters a game with an illegal deck, they lose that game. This deck can be either a deck not in their registered lineup or a deck in their lineup that the match format prevents them from using that particular game.
+- If a player disconnects while in-game and can't reconnect, they lose that game. Disconnects within the lobby are not a loss for either player unless a frequent occurrence for a particular player.
 - If the TO ends an ongoing match, it ends in either a 1-1 draw if both players won a game or a 0-0 draw elsewise.
 
 At the end of each match, both players must report the result of the match to `#match-results`. A match result is generally accepted in any of these forms:

@@ -10,3 +10,6 @@ Info on the two-stage bracket format of season tourneys: four rounds of Swiss an
 
 ### **[Tournament Rounds](rounds)**
 Procedure for matches and games during each round of season tourneys.
+
+### **[Season Points & Rewards](rewards)**
+Info on the prestige rewards for weekly & season wins!

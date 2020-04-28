@@ -2,6 +2,9 @@
 
 Welcome! Here you'll find a collection of info on /r/LegendsOfRuneterra **tournament seasons**. If you came here from another location, be sure to hop into [our Discord server](https://discord.gg/pTC8j8f)!
 
+### **[Season 1](seasons/1)**
+Schedule & info for Season 1, the Season of Wonder!
+
 ### **[Tournament Sign-ups](sign-ups)**
 Procedure for entering a season tourney. When, where, and how!
 

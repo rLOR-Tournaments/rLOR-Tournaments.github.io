@@ -2,10 +2,10 @@
 
 ## Check-in
 
-The TO will announce the **Round Start** of each new round. After this announcement, each player must check-in by posting (anything) to the `#check-in` channel as soon as possible.
+The TO will announce the **Round Start** of each new round. After this announcement, each player playing a match that round must check-in as soon as possible by sending a DM to their opponent, by mentioning them in the #chat channel, or by contacting the TO if there are any problems.
 
-- There are no penalties for checking-in in the **10 minutes** after Round Start.
-- At each **10-minute interval** after Round Start, if Player A in a match has checked in but Player B hasn't, then Player B forfeits a game.
+- There are no penalties for checking-in in the **15 minutes** after Round Start.
+- At **15 minutes** after Round Start, and at each **10-minute interval** afterward, if Player A in a match has checked in but Player B hasn't, then Player B forfeits a game.
 - When Player B forfeits a game in this manner, Player A's win total increments by 1. However, the game counter does *not* increment by 1.
 
   *Example*: Player A checks-in after 2 minutes and Player B checks-in after 14 minutes. A & B's first game is Game 1, and Player A's game record starts at 1-0.

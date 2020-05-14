@@ -1,8 +1,8 @@
 # Tournament Sign-ups
 
 The scheduled **Tournament Start** time for season tourneys is currently:
-- `@EU Tournaments`: Sundays @ 7:00 PM BST/GMT [London time]
-- `@AM Tournaments`: Sundays @ 6:00 PM EDT/EST [New York time]
+- `@EU Tournaments`: Sundays @ 6:00 PM BST/GMT [London time]
+- `@AM Tournaments`: Sundays @ 5:00 PM EDT/EST [New York time]
 
 There are three parts to joining each tournament:
 - **Sign-ups**: `@Bannerman` posts sign-ups in `#event-news` **120 minutes** before Tournament Start and closes sign-ups **45 minutes** before Tournament Start. React to this post with the designated checkmark during this time to enter and sign-up, gaining an `@EU Tourney Participant` role or `@AM Tourney Participant` role and visibility of hidden tournament channels. Remove the reaction to leave.

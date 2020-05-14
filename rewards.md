@@ -27,9 +27,7 @@ Any ties in SP total are broken in the following order:
 
 ## Season Rewards
 
-- Weekly season tourney winners from both EU and AM each get:
-  - A one-week spot in the **Deck Showcase**, a display in both `#events` and the Reddit wiki for the player to show off a deck and an explanatory blurb.
-  - The `@Tournament Winner` role.
+- Weekly season tourney winners from both EU and AM each get the `@Tournament Winner` role.
 - The top 3 season placers (by SP and tiebreaker if needed) from both EU and AM each get:
   - A gift of either **1 month of Discord Nitro** or **2 months of Discord Nitro Classic** by the player's choice (note that a [recent change](https://support.discordapp.com/hc/en-us/articles/360030782312-Updates-to-Nitro-Gifting-Account-Credit-) allows gift redemption while using non-gifted Nitro).
 - Season champions from both EU and AM each get:
